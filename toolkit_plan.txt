@@ -1,0 +1,57 @@
+PYTHON WEEK 8 - TOOLKIT PROJECT PLAN
+
+1. TOOLS SELECTED
+
+Tool 1: Simple Calculator
+This tool allows users to enter two numbers and perform addition, subtraction, multiplication, or division.
+
+Tool 2: To-Do List
+This tool allows users to add tasks, view all saved tasks, and remove tasks from their list.
+
+Tool 3: Number Checker
+This tool allows users to enter a number and check whether it is positive, negative, or zero, and whether it is even or odd.
+
+2. MENU TEXT
+
+===== MY PYTHON TOOLKIT =====
+1. Simple Calculator
+2. To-Do List
+3. Number Checker
+4. Quit
+
+Enter your choice (1-4):
+
+3. CONCEPTS USED
+
+Simple Calculator:
+- Variables
+- User input
+- Conditionals (if, elif, else)
+- Arithmetic operators
+- F-strings
+
+To-Do List:
+- Lists
+- List methods (append and remove)
+- While loops
+- For loops
+- Conditionals
+- F-strings
+
+Number Checker:
+- Variables
+- User input
+- Type conversion
+- Conditionals
+- Modulo operator
+- F-strings
+
+4. GENERAL PROGRAM STRUCTURE
+
+- Display a welcome message.
+- Display the menu using a while loop.
+- Accept the user's menu choice.
+- Use if, elif, and else to select the correct tool.
+- Return to the menu after each tool finishes.
+- Display a friendly goodbye message when the user chooses Quit.
+- Handle invalid menu choices without crashing.
