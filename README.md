@@ -1,4 +1,3 @@
-
 # PLP Python Week 8 - My Python Toolkit
 
 ## Project Description
@@ -45,14 +44,3 @@ The number checker allows users to enter a whole number and determine whether it
 
    ```bash
    python toolkit.py
-   ```
-
-6. Select a tool from the displayed menu and follow the instructions.
-
-## Screenshots
-
-The `screenshots` folder contains evidence of the program working, including invalid menu choice handling and each tool running.
-
-## Reflection
-
-The hardest part of this project was combining all three tools into one menu-driven program while ensuring that the menu continued running after each tool was used. The bug that took the longest to fix was indentation and ensuring that each tool was correctly placed inside the main menu loop. I learned how to use lists to store and modify tasks while a program runs. I also improved my understanding of loops, conditionals, user input, and error handling. Testing each tool helped me identify mistakes and verify that the program worked as expected. The project helped me understand how different Python concepts can be combined into one practical application. If I had one more week, I would improve the to-do list by saving tasks permanently in a file so they would not disappear when the program closes.
